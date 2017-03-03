@@ -1,0 +1,6 @@
+to run the game: do python tetris.py
+Rules are simple that of a tetis:
+but after each level speed will increase,
+	a block will appear ramdomly
+	after 3 levels,a non breakable wall will appear at the bottom
+	after each 100 score level will increase
